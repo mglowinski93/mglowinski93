@@ -1,3 +1,5 @@
+![banner](images/banner.jpg)
+
 Hi,  
 I'm Mateusz, a Python developer and mechatronics engineer.  
 Nice to see you on my profile 👋  
