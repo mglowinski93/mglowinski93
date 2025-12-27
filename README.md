@@ -3,7 +3,7 @@
 Hi,  
 I'm Mateusz, a Python developer and mechatronics engineer.  
 Nice to see you on my profile 👋  
-Below you can find short summary of technologies that I mostly use.
+Below is a short summary of the technologies I use most.
 
 ### Languages
 
